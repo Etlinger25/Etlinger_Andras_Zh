@@ -5,5 +5,8 @@ Feladataim:
 
 
 Használt fejlesztőkörnyezetek:
-   (3)/ a visual studio code (html,css,javascript)
-   (4) creately.com
+   (3)/ a visual studio code (html,css,javascript).
+   (4) creately.com.
+
+Futáshoz szükséges:
+   kitölteni!!
